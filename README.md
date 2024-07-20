@@ -1,0 +1,2 @@
+# Hackathons
+participation in competitions
